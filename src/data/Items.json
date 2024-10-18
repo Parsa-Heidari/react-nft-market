@@ -1,0 +1,134 @@
+[
+    {
+        "id": "01",
+        "image": "https://netstorm-react.theme-land.com/img/auction_1.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_1.jpg",
+        "authorName": "Evelyn Carter",
+        "name": "Cosmic Drift",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 120,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "02",
+        "image": "https://netstorm-react.theme-land.com/img/auction_2.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_2.jpg",
+        "authorName": "ELiam Hayes",
+        "name": "Neon Mirage",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 18.750,
+        "new": false , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "03",
+        "image": "https://netstorm-react.theme-land.com/img/auction_3.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_3.jpg",
+        "authorName": "Sophia Bennett",
+        "name": "Quantum Blossom",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 93200,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "04",
+        "image": "https://netstorm-react.theme-land.com/img/auction_4.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_4.jpg",
+        "authorName": "Noah Adams",
+        "name": "Retro Pulse",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 7800,
+        "new": false , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "05",
+        "image": "https://netstorm-react.theme-land.com/img/auction_5.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_5.jpg",
+        "authorName": "Celestial Echo",
+        "name": "Aurora Flux",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 120000,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "06",
+        "image": "https://netstorm-react.theme-land.com/img/auction_6.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_6.jpg",
+        "authorName": "Jackson Turner",
+        "name": "HoloSpectrum",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 65300,
+        "new": false , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "07",
+        "image": "https://netstorm-react.theme-land.com/img/auction_7.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_7.jpg",
+        "authorName": "Isabella Reed",
+        "name": "Serene Vortex",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 2450,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "08",
+        "image": "https://netstorm-react.theme-land.com/img/auction_8.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_8.jpg",
+        "authorName": "Aiden Brooks",
+        "name": "Digital Dreamscape",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 85600,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "09",
+        "image": "https://netstorm-react.theme-land.com/img/auction_9.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_3.jpg",
+        "authorName": "Sophia Bennett",
+        "name": "Ethereal Odyssey",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 31700,
+        "new": false , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "10",
+        "image": "https://netstorm-react.theme-land.com/img/auction_10.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_7.jpg",
+        "authorName": "Isabella Reed",
+        "name": "Chromatic Wave",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 58900,
+        "new": true , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "11",
+        "image": "https://netstorm-react.theme-land.com/img/auction_11.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_5.jpg",
+        "authorName": "Olivia Scott",
+        "name": "Stardust Symphony",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 58900,
+        "new": false , 
+        "bnb" : 1.2
+    },
+    {
+        "id": "12",
+        "image": "https://netstorm-react.theme-land.com/img/auction_12.jpg",
+        "authorImage": "https://netstorm-react.theme-land.com/img/avatar_1.jpg",
+        "authorName": "Evelyn Carter",
+        "name": "Pixelated Enigma",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 58900,
+        "new": true , 
+        "bnb" : 1.2
+    }
+]
